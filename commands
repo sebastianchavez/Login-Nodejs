@@ -1,0 +1,8 @@
+//instalar modulos express mongoose ejs-mate connect-flash morgan passport passport-local bcrypt-nodejs
+npm i express mongoose ejs-mate connect-flash morgan passport passport-local bcrypt-nodejs
+
+//Instalar nodemon
+npm i nodemon -D
+
+//Instalar express-session
+npm i express-session 
